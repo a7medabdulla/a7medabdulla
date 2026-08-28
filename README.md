@@ -37,4 +37,4 @@ A database-backed attendance application with face recognition, role-based authe
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/a7medeid) · [Sabaa Live Website](https://sabaa.men)
+[LinkedIn](https://www.linkedin.com/in/a7medeid)
